@@ -131,6 +131,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [BusinessOS](https://businessos.biz/) – Offline-first, encrypted business platform (invoicing, expenses, cash flow) with voice-to-invoice and WhatsApp send. Ships [40 free open-source calculators](https://github.com/ytinsta1741-ops/free-business-tools) (VAT, GST, MRR, CAC, LTV).
 
 ## Developer Tools & Infrastructure
 
