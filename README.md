@@ -136,6 +136,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Stripe API](https://stripe.com/docs/api) – APIs for payments, billing, and financial workflows.
 - [Plaid API](https://plaid.com/docs/) – Developer APIs for banking data access.
+- [Stanza](https://stanzaapi.com) – Sub-2ms edge micro-APIs for ISO 20022 financial parsing, IBAN checksum validation, VAT compliance, and GLEIF LEI verification.
 - [Open Banking APIs](https://www.openbanking.org.uk/) – Standards-based financial APIs.
 - [AWS for Financial Services](https://aws.amazon.com/financial-services/) – Cloud infrastructure for FinTech workloads.
 - [Google Cloud for FinTech](https://cloud.google.com/solutions/financial-services) – Cloud services for financial applications.
