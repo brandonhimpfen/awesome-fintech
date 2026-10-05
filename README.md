@@ -82,6 +82,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
+- [Truthifi](https://truthifi.com/) – One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant.
 
 ## Personal Finance & Budgeting
 
