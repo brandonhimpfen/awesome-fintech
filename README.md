@@ -99,6 +99,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [TickerBloom](https://tickerbloom.com/) — Real-time company news monitor by AlphAI. Follow company news, explore Story context, and open original sources in a free, customizable news desk.
 
 ## Fraud, Risk & Compliance
 
