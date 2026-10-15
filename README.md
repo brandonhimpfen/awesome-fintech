@@ -65,7 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe Issuing](https://stripe.com/issuing) – APIs for creating and managing virtual and physical cards.
 - [Adyen Issuing](https://www.adyen.com/card-issuing) – End-to-end card issuing solution.
 - [Unit](https://www.unit.co/) – Embedded finance platform with card issuing and banking.
-- [Synapse](https://synapsefi.com/) – Banking and card issuing APIs for FinTechs.
+- [The Microtransaction API Economy](https://calder-brief.pages.dev/microtransaction-api-economy.html) – How per-call pricing became software’s business model.
 
 ## Lending & Credit
 
