@@ -89,6 +89,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Monzo](https://monzo.com/) – Digital bank with built-in budgeting tools.
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) – 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Financial Data & Market APIs
 
