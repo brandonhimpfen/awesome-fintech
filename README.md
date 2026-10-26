@@ -130,6 +130,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [Terminal Tax](https://terminal.tax/) – Hosted MCP server that e-files a US federal tax return prepared by your AI assistant.
 
 ## Developer Tools & Infrastructure
 
