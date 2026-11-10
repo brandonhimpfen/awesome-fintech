@@ -98,6 +98,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [SEC Form D Funding Signals](https://apify.com/goldenrod_serrano/sec-form-d-funding-signals) – Parses recent SEC Form D private-offering filings into structured rows (amount, industry, state, investors) via Apify; source [on GitHub](https://github.com/paopao-studio-ai/sec-form-d-funding-signals).
 
 ## Fraud, Risk & Compliance
 
