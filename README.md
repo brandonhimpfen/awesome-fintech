@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Bloomberg](https://www.bloomberg.com/professional/) – Financial data, analytics, and news platform.
 - [Refinitiv](https://www.refinitiv.com/) – Market data and financial infrastructure provider.
+- [Trading Signals Toolkit](https://signals.incomefather.com) – Event-risk flags for ES futures, SEC Form 4 insider-buy alerts, and short AI trade briefs via API.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
